@@ -1,0 +1,45 @@
+{
+    "ropa": [
+      {
+        "nombre": "Buso Azul Estampado",
+        "imagen1":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649541010/Principe-fresco/buso3_hx0mie.png",
+        "imagen2":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649541017/Principe-fresco/buso1_sfybph.png",
+        "imagen3":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649541014/Principe-fresco/buso2_iao0ni.png",
+        "Precio":"100000",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "talla":["M","L","XL"],
+        "id": 1
+      },
+      {
+        "nombre": "Buso de Rayas",
+        "imagen1":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649541007/Principe-fresco/camiseta1_qofzpn.png",
+        "imagen2":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540979/Principe-fresco/camisa2_nnqqgr.png",
+        "imagen3":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540976/Principe-fresco/camisa3_pndqbs.png",
+        "Precio":"180000",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "talla":["M","L","XL"],
+        "id": 2
+      },
+      {
+        "nombre": "Buso Blanco",
+        "imagen1":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540991/Principe-fresco/camisaDama1_euzewy.png",
+        "imagen2":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540991/Principe-fresco/camisaDama1_euzewy.png",
+        "imagen3":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649541004/Principe-fresco/camisaDama3_pwrz5w.png",
+        "Precio":"180000",
+        "correo":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "talla":["34","36","38"],
+        "id": 3
+      },
+      {
+        "nombre": "Buso Negro",
+        "imagen1":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540981/Principe-fresco/busodama1_vy7aoz.png",
+        "imagen2":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540988/Principe-fresco/busodama3_ozvf9m.png",
+        "imagen3":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1649540985/Principe-fresco/busodama2_vsdoez.png",
+        "Precio":"140000",
+        "correo":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "talla":["34","36","38"],
+        "id": 4
+      }
+
+    ]
+}
